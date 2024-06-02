@@ -1,9 +1,9 @@
 # Amazon-Product-Recommendation-System using Advanced NLP and ML Techniques
 
 ## Authors
+- Jiayi Zhang
 - Weiting Li
 - Yumin Wang
-- Jiayi Zhang
 
 ## Project Overview
 This project aims to recommend Amazon products to users based on the Amazon product co-purchasing network. The goal is to design and develop a recommender system that is both accurate and efficient. The project involves conducting network analysis, sentiment analysis on product reviews, and implementing topic modeling to understand user preferences better. Finally, a machine learning-based recommendation system is developed to enhance product recommendations.
