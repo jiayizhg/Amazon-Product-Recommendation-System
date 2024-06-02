@@ -66,6 +66,7 @@ This project is part of the Social Media Analytics CS 5664 course at Virginia Te
 
 ## Limitations
 - The system's performance is limited by hardware constraints and the size of the dataset.
+- The datasets used are not up-to-date.
 - Difficulty in handling stopwords specific to music and video products during sentiment analysis.
 
 ## Future Work
