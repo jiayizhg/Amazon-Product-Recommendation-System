@@ -27,10 +27,7 @@ This project is part of the Social Media Analytics CS 5664 course at Virginia Te
 4. **Movies_and_TV.json**: JSON file with reviews of movies and TV products.
 5. **Digital_Music.json**: JSON file with reviews of digital music products.
 
-### Supplementary Material Folder
-1. **Network_Topic_Analysis**: Contains pictures for network analysis and topic modeling.
-2. **Sentiment_Analysis**: Contains pictures for sentiment analysis.
-3. **Demo**: Interactive visualizations for topic modeling.
+### Demo
    - [Demo Video](https://www.youtube.com/watch?v=8ae4x3PKybM)
 
 ### Final Report
