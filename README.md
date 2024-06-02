@@ -8,9 +8,6 @@
 ## Project Overview
 This project aims to recommend Amazon products to users based on the Amazon product co-purchasing network. The goal is to design and develop a recommender system that is both accurate and efficient. The project involves conducting network analysis, sentiment analysis on product reviews, and implementing topic modeling to understand user preferences better. Finally, a machine learning-based recommendation system is developed to enhance product recommendations.
 
-### Problem Statement
-The problem this project addresses is the challenge of designing and developing a product recommendation system that is both accurate and efficient. By analyzing Amazon's co-purchasing network and user reviews, the project seeks to improve the accuracy of product recommendations, thereby enhancing the user experience and increasing sales on e-commerce platforms.
-
 ## Course Information
 This project is part of the Social Media Analytics CS 5664 course at Virginia Tech for master-level students.
 
